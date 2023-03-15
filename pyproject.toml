@@ -5,8 +5,9 @@ description = ""
 authors = ["sibi <sibivel979@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.8"
-Flask = "^2.0.2"
+python = "^3.10"
+flask = "^2.2.3"
+
 
 [tool.poetry.dev-dependencies]
 
